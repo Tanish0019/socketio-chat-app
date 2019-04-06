@@ -25,7 +25,7 @@ Go to localhost:3000
 </p>
 <br/>
 
-##### Send current location
+###### Send current location
 <br/>
 <p align = "center">
   <img src="screenshots/map.png" alt="Map" width="250"/>

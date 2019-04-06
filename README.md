@@ -14,22 +14,17 @@ Go to localhost:3000
 ## Demo
 ###### Enter username and room name.
 <br/>
-<p align = "center">
-  <img src="screenshots/landing.png" alt="Landing Page" width="250"/>
-</p>
+![Landing Page](./screenshots/landing.png)
+<br/>
 
 ###### Chat window
 <br/>
-<p align = "center">
-  <img src="screenshots/chatWindow.png" alt="Chat Window" width="250"/>
-</p>
+![Chat Window](./screenshots/chatWindow.png)
 <br/>
 
 ###### Send current location
 <br/>
-<p align = "center">
-  <img src="screenshots/map.png" alt="Map" width="250"/>
-</p>
+![Map](./screenshots/map.png)
 <br/>
 
 
